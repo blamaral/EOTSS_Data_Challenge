@@ -46,7 +46,7 @@ I then decided to look into how many establishments were repeatedly performing p
 
 2018: 667 repeat reoffenders of 3009 total establishments, 2221 of which failed initial inspection
 
-![Graph](https://raw.githubusercontent.com/blamaral/EOTSS_Data_Challenge/master/graphs/most-common-food-license-cats.png)
+![Graph](https://raw.githubusercontent.com/blamaral/EOTSS_Data_Challenge/master/graphs/number-of-repeat-offenders.png)
 
 From the data and graph, it looks like as the years progress, there are less establishments overall, whereas the number of establishments that perform poorly roughly remains the same. However, the number of establishments that repeatedly perform poorly within the year decreases.
 
@@ -66,7 +66,7 @@ This shows that in recent years more poorly performing establishments are passin
 
 The last thing I looked at were the license categories for establishments that repeatedly perform poorly on a per year basis.
 
-![Graph](https://raw.githubusercontent.com/blamaral/EOTSS_Data_Challenge/master/graphs/number-of-repeat-offenders.png)
+![Graph](https://raw.githubusercontent.com/blamaral/EOTSS_Data_Challenge/master/graphs/most-common-food-license-cats.png)
 
 I also have data visualizations on Tableau to support the findings above here: 
 
