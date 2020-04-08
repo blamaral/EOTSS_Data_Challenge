@@ -1,0 +1,1 @@
+![Graph](https://raw.githubusercontent.com/blamaral/EOTSS_Data_Challenge/master/graphs/most-common-food-license-cats.png)
