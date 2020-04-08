@@ -2,7 +2,7 @@
 
 #### Objective: Are there commonalities or trends among establishments that perform poorly?
 
-**Preliminary information:** There were 72243 times establishments were graded within a 6 year span (2012 to 2018), however, only 7558 of those establishments were unique, meaning establishments are repeatedly graded throughout the years.
+**Preliminary information:** There were 72243 times establishments were graded within a 6 year span (2012-01 to 2018-06), however, only 7558 of those establishments were unique, meaning establishments are repeatedly graded throughout the years. Note that only half of the year of 2018 have records.
 
 
 After looking through the dictionaries of the csv documents, I decided that any establishment with a result of *'HE_Fail', 'HE_FailExt', 'HE_Hearing', 'HE_OutBus', 'HE_TSOP'* at least once in a year was performing poorly. I did not include HE_Filed in this estimate because although the inspection did not pass, the inspector still deemed the results good enough not to require further re-inspection. While conducting analysis on the violations data, I noticed that there were additional results, and subsequently added *'HE_Closure', 'HE_Misc', 'HE_FAILNOR'* to this list.
