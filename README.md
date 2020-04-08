@@ -8,11 +8,11 @@
 After looking through the dictionaries of the csv documents, I decided that any establishment with a result of *'HE_Fail', 'HE_FailExt', 'HE_Hearing', 'HE_OutBus', 'HE_TSOP'* at least once in a year was performing poorly. I did not include *HE_Filed* in this estimate because although the inspection did not pass, the inspector still deemed the results good enough not to require further re-inspection. While conducting analysis on the violations data, I noticed that there were additional results, and subsequently added *'HE_Closure', 'HE_Misc', 'HE_FAILNOR'* to this list.
 
 I first approached the objective by taking all establishments that had those poor results. I noticed that the majority of establishments that perform poorly were graded C. This is to be expected as grades are determined by what/how many violations. While only making up 16.5% of the total establishments, they were 44.4% of the poorly performing establishments. However, the most frequent scores for poorly performing establishments were graded A and B as shown below:
-* 90 with 1845 and ferquency of 6.9257%
-* 88 with 1650 and ferquency of 6.1937%
-* 98 with 1573 and ferquency of 5.9047%
-* 94 with 1267 and ferquency of 4.7560%
-* 86 with 1266 and ferquency of 4.7523%
+* 90 with 1845 and frequency of 6.9257%
+* 88 with 1650 and frequency of 6.1937%
+* 98 with 1573 and frequency of 5.9047%
+* 94 with 1267 and frequency of 4.7560%
+* 86 with 1266 and frequency of 4.7523%
 
 Although this was surprising at first, this indicates that there are far more varying scores that are in the grade C range. This aligns with the grading system as a grade of C is a larger range itself and is not limited whereas there is a maximum value a score can be is capped at 100.
 
