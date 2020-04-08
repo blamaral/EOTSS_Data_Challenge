@@ -19,10 +19,10 @@ Although this was surprising at first, this indicates that there are far more va
 There were a total of 467 establishments that recieved a score of 100, meaning they had no violations, but they still poorly performed. This seemed high so I dug future into this data. Almost all of these establishments were either out of business or temporarily shutdown by the health department.  
 
 The most common violations that resulted in a poor performance were Non-Food Contact Surfaces Clean, Improper Maintenance of Walls/Ceilings, Non-Food Contact Surfaces, Improper Maintenance of Floors, and Food Protection. All of these categories are non-critical violations, but all resulted in a failed inspection. About 1/3 of all violations were non-critical that resulted in a failed inspection. It's also important to note that these categories were related to the license category of Eating and Drinking Establishment (FS) and Eating and Drinking Establishment with Take-Out Service (FT). This finding aligns with the initial exploratory data analysis I conducted since the vast majority of establishments were FS and FT, as shown below:
-* 37.9% FT
-* 48.4% FS
-* 12.5% RF (Retail Food Establishment)
-* 1.3% MFW (Mobile Food Truck or Vendor)
+* FT 37.9% 
+* FS 48.4% 
+* RF (Retail Food Establishment) 12.5% 
+* MFW (Mobile Food Truck or Vendor) 1.3%
 
 The percentage of poor performing establishments are shown below:
 * FT 38.6%
